@@ -1,0 +1,2 @@
+This is first demo txt file for learning git 
+this we use to learn git and start collaborating
