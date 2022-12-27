@@ -1,2 +1,5 @@
 This is first demo txt file for learning git 
 this we use to learn git and start collaborating
+I am again adding some text to create some change which i can seen in my 
+git status command
+thank you!
